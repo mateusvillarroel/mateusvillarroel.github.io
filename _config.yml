@@ -24,7 +24,7 @@ repository               : "mateusvillarroel/mateusvillarroel.github.io
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "foto_perfil.png"
   name             : "Mateus Villarroel Alcântara Saraiva Leão"
   pronouns         : # example: "she/her"  
   bio              : "Enthusiast on behavior determination and expression. Frontier lover."
