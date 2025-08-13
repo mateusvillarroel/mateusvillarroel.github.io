@@ -5,23 +5,17 @@
 # prevent it from being included in the site.
 
 main:
+  - title: "Trajectory"
+    url: /trajectory/
+
   - title: "Publications"
-    url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
+    url: /pubs/      
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Side projects"
+    url: /sideprojects/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Blog"
+    url: /Blog/
     
   - title: "CV"
     url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
